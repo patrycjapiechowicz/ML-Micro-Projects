@@ -1,6 +1,6 @@
 **DataWorkShop **
 
-**Moduly:**
+**Moduly kursu:**
 
 Modul 1. Podstawy uczenia maszynowego
 Dowiesz się:
