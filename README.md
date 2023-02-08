@@ -7,4 +7,5 @@ Repository containing portfolio of data science projects completed by me for aca
 
 
 ## List of contents:
-1. [Clustering](https://github.com/patrycjapiechowicz/data-science/blob/main/Clustering.ipynb))
+1. [Clustering](https://github.com/patrycjapiechowicz/data-science/blob/main/Clustering.ipynb)
+2. [Predicting diamond price]https://github.com/patrycjapiechowicz/data-science/blob/main/GPU_Regression_problem.ipynb
