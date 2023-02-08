@@ -7,4 +7,4 @@ Repository containing portfolio of data science projects completed by me for aca
 
 
 ## List of contents:
-1. [Clustering]([https://arxiv.org/abs/1804.04637](https://github.com/patrycjapiechowicz/data-science/blob/main/Clustering.ipynb))
+1. [Clustering](https://github.com/patrycjapiechowicz/data-science/blob/main/Clustering.ipynb))
