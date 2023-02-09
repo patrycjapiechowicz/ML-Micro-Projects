@@ -9,7 +9,8 @@ Repository containing portfolio of data science projects completed by me for aca
 
 
 ## List of contents (ML Micro Projects):
-1. [Clustering](https://github.com/patrycjapiechowicz/data-science/blob/main/Clustering.ipynb)
+1. [Clustering](https://github.com/patrycjapiechowicz/data-science/blob/main/Clustering.ipynb) - K-means and DBScan, benchmarking CPU and GPU
+
 2. [Predicting diamond price](https://github.com/patrycjapiechowicz/data-science/blob/main/GPU_Regression_problem.ipynb)
 3. [Credit Card fraud detection](https://github.com/patrycjapiechowicz/data-science/blob/main/Tensorflow_classification_problem.ipynb)
 4. [Titanic - Exploratory Data Analysis](https://github.com/patrycjapiechowicz/data-science/blob/main/titanic_EDA.ipynb)
@@ -17,3 +18,5 @@ Repository containing portfolio of data science projects completed by me for aca
 6. [Telco customer churn](https://github.com/patrycjapiechowicz/data-science/blob/main/pipeline.ipynb)
 7. [Naive Bayes from scratch for numerical featutes](https://github.com/patrycjapiechowicz/data-science/blob/main/Naive%20Bayes%20-%20dla%20cech%20numerycznych%20-%20IRIS%20Dataset.ipynb)
 8. [Naive Bayes from scratch for cathegorical featutes](https://github.com/patrycjapiechowicz/data-science/blob/main/Naive%20Bayes%20-%20dla%20cech%20symbolicznych.ipynb)
+
+
